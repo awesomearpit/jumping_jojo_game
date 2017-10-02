@@ -1,0 +1,8 @@
+step 1: Execute this line in your terminal / command line to install the http-server package:
+
+		npm -g install http-server
+
+step 2:Then you can just run it from any directory and it will serve its contents:
+
+		cd my-game
+		http-server
